@@ -1,0 +1,35 @@
+# Visual Studio
+.vs/
+*.sln
+*.suo
+*.user
+*.opensdf
+*.sdf
+
+# Intermediate & Saved
+Intermediate/
+Saved/
+DerivedDataCache/
+Build/
+Binaries/
+
+# IDE
+.vscode/
+
+# User settings
+*EditorPerProjectUserSettings.ini
+*Engine.ini
+*Editor.ini
+
+# Logs & temp
+*.log
+*.tmp
+*.swp
+
+# Plugins build
+Plugins/*/Intermediate/
+Plugins/*/Binaries/
+
+# Compiled assets
+*.exe
+*.dll
